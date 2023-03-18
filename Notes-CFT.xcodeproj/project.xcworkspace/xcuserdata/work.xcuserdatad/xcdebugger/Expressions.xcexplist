@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in NoteViewContoller.textViewDidChange(_:):NoteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenSize.width">
+            </PersistentString>
+            <PersistentString
+               value = "attachment.bounds.width">
+            </PersistentString>
+            <PersistentString
+               value = "attachment.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "attachment.bounds.width * min(screenSize.width / attachment.bounds.width, screenSize.height / attachment.bounds.height)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteViewContoller.viewDidLoad():NoteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.attributedText.attributes(at: 0, effectiveRange: nil)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteViewContoller.textViewDidEndEditing(_:):NoteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.attributedText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.addEmptyNote():MainViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.tableView(_:cellForRowAt:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notes[indexPath.row].text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewDidLoad():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toolbarItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteViewContoller.textViewDidChange(_:):NoteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.textStorage.attributedSubstring(from: NSRange(location: 0, length: textView.text.count))">
+            </PersistentString>
+            <PersistentString
+               value = "textView.textStorage.attribute(.font, at: 0, effectiveRange: nil)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.getNote():MainViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewDidAppear(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectNote.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

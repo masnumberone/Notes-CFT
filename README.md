@@ -11,4 +11,8 @@
 - Сохранение заметок между сеансами приложения.
 
 ## Демо
-<img src="https://github.com/masnumberone/Notes-CFT/blob/main/Notes-CFT/demo.gif" width="300">
+
+<p align="left">
+  <img src="https://github.com/masnumberone/Notes-CFT/assets/95964517/de397d23-10c8-40bd-ae63-331220720d51" width="300px"/>
+</p
+ 
